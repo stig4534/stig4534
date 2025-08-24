@@ -1,6 +1,6 @@
 <!-- 动态标题 -->
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=4000&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Hi👋+I'm+Stig;Diploma+Graduate+Developer" alt="animate_readme">
+  (https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=4000&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Hi👋+I'm+Stig;Diploma+Graduate+Developer)
   <img src="https://komarev.com/ghpvc/?username=stig4534&label=Profile+Views&color=blueviolet" alt="visit_count">
 </div>
 
