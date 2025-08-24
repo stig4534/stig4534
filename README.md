@@ -1,7 +1,6 @@
 <!-- 动态标题 -->
 <div align="center">
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Hi%F0%9F%91%8B+I'm+Stig;A+Fresh+Graduate+Diploma+Developer" alt="Typing SVG" /></a>
-  <img src="https://komarev.com/ghpvc/?username=stig4534&label=Profile+Views&color=blueviolet" alt="visit_count">
 </div>
 
 ---
@@ -32,5 +31,5 @@
 ![OpenAI](https://img.shields.io/badge/OpenAI-412991?logo=openai&logoColor=white)
 
 ---
-
+<img src="https://komarev.com/ghpvc/?username=stig4534&label=Profile+Views&color=blueviolet" alt="visit_count">
 
